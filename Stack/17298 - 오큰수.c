@@ -2,8 +2,8 @@
 
 using namespace std;
 
-stack <int> s;
 int i, N, height[1000000], NGD[1000000];
+stack <int> s;
 
 int main() {
 
